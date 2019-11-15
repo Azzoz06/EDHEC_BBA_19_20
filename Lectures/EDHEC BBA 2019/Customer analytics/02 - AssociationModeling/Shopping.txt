@@ -1,0 +1,787 @@
+Ready made,Frozen foods,Alcohol,Fresh Vegetables,Milk,Bakery goods,Fresh meat,Toiletries,Snacks,Tinned Goods,GENDER,Age,MARITAL,CHILDREN,WORKING
+1,0,0,0,0,0,0,0,1,0,Female,18 to 30,Widowed,No,Yes
+1,0,0,0,0,0,0,1,0,0,Female,18 to 30,Separated,No,Yes
+1,0,0,0,0,0,0,1,1,0,Male,18 to 30,Single,No,Yes
+1,0,0,0,1,1,0,0,0,0,Female,18 to 30,Widowed,No,Yes
+1,0,0,0,0,0,0,0,0,0,Female,18 to 30,Separated,No,Yes
+1,0,0,0,0,1,0,0,1,1,Male,18 to 30,Single,No,No
+1,0,0,0,0,1,0,0,0,0,Female,18 to 30,Single,No,No
+1,0,0,0,0,0,0,0,0,0,Female,18 to 30,Widowed,No,No
+1,0,0,0,1,0,0,0,1,1,Female,18 to 30,Single,No,No
+1,0,0,0,0,0,0,0,0,0,Female,18 to 30,Single,No,No
+1,0,0,0,0,0,0,0,0,0,Female,18 to 30,Single,No,No
+1,1,1,0,1,1,0,0,1,0,Female,18 to 30,Single,No,No
+1,0,0,0,0,0,0,0,0,0,Male,18 to 30,Widowed,No,No
+1,0,0,0,0,0,0,0,1,1,Female,18 to 30,Single,No,No
+1,0,0,0,0,0,0,0,0,0,Male,18 to 30,Single,No,No
+1,0,1,0,0,0,0,0,0,0,Male,18 to 30,Single,No,No
+1,0,0,0,0,0,0,0,0,0,Male,18 to 30,Single,No,No
+1,0,0,0,0,0,0,0,1,0,Female,18 to 30,Single,No,No
+1,0,0,0,0,1,0,0,0,1,Male,18 to 30,Single,No,No
+1,0,0,1,0,0,0,0,0,1,Female,18 to 30,Single,No,No
+1,0,0,0,0,0,0,0,0,0,Female,18 to 30,Single,No,No
+1,0,0,0,0,0,0,0,0,0,Male,18 to 30,Single,No,No
+1,0,0,0,0,0,0,0,0,0,Female,18 to 30,Widowed,No,No
+1,0,0,0,0,1,0,1,1,0,Female,18 to 30,Single,No,No
+1,0,0,0,0,0,0,0,1,0,Male,18 to 30,Married,No,Yes
+1,0,1,0,1,0,0,0,1,0,Male,18 to 30,Widowed,No,Yes
+1,0,0,0,0,0,0,0,0,0,Female,18 to 30,Widowed,Yes,Yes
+1,1,0,0,0,0,0,0,1,0,Female,18 to 30,Separated,No,Yes
+1,0,0,0,0,1,0,0,1,0,Female,18 to 30,Separated,Yes,Yes
+1,0,1,0,0,1,0,0,0,0,Male,18 to 30,Separated,No,Yes
+1,0,0,0,0,0,0,0,0,0,Female,18 to 30,Single,No,Yes
+1,0,0,0,0,0,0,0,0,1,Female,18 to 30,Widowed,No,Yes
+1,1,0,0,0,0,0,0,0,1,Female,18 to 30,Single,No,Yes
+1,1,0,0,0,0,0,0,1,0,Female,18 to 30,Separated,No,Yes
+1,0,0,0,0,0,0,0,0,0,Male,18 to 30,Single,No,Yes
+1,0,0,0,0,1,0,0,0,0,Male,18 to 30,Single,No,Yes
+1,0,0,0,0,0,0,0,0,0,Male,18 to 30,Single,Yes,Yes
+1,0,0,0,0,0,0,0,0,0,Female,18 to 30,Single,Yes,Yes
+1,0,0,0,0,0,0,0,0,0,Female,18 to 30,Single,Yes,Yes
+1,0,0,0,0,0,0,0,0,0,Male,18 to 30,Single,No,Yes
+1,0,0,0,0,0,0,0,1,0,Female,18 to 30,Single,No,Yes
+1,0,0,0,0,0,0,0,0,0,Male,18 to 30,Married,No,Yes
+1,0,0,0,0,0,0,0,0,0,Female,18 to 30,Widowed,No,Yes
+1,0,0,0,0,0,0,0,0,0,Male,18 to 30,Separated,No,Yes
+1,0,0,0,0,0,0,0,0,0,Male,18 to 30,Widowed,No,Yes
+1,0,0,0,0,0,0,0,1,1,Male,18 to 30,Single,No,Yes
+1,0,0,0,0,0,0,0,0,0,Female,18 to 30,Single,Yes,Yes
+1,0,0,0,0,0,0,0,0,1,Male,18 to 30,Single,Yes,Yes
+1,0,0,0,0,0,0,0,0,0,Male,18 to 30,Single,Yes,Yes
+1,1,1,0,0,0,0,0,1,0,Female,18 to 30,Separated,No,Yes
+1,0,0,0,0,0,0,0,0,0,Male,18 to 30,Married,No,Yes
+1,0,0,0,0,0,0,0,0,1,Male,18 to 30,Widowed,No,Yes
+1,0,0,0,0,0,0,0,1,0,Female,18 to 30,Single,No,Yes
+1,0,0,0,0,1,0,0,1,0,Male,18 to 30,Widowed,No,Yes
+1,1,1,0,0,0,0,1,0,0,Male,18 to 30,Married,No,Yes
+1,0,0,0,0,0,0,0,0,0,Female,18 to 30,Separated,No,Yes
+1,0,0,0,0,1,0,0,0,0,Female,18 to 30,Divorced,No,Yes
+1,1,1,0,0,0,0,0,1,0,Male,18 to 30,Separated,No,Yes
+1,0,0,0,0,0,0,0,1,0,Female,18 to 30,Separated,No,Yes
+1,0,1,0,0,0,0,0,0,0,Female,51 to 60,Married,No,Yes
+1,0,0,0,0,0,0,0,0,0,Female,Over 60,Separated,No,Yes
+1,0,0,0,0,0,0,0,1,1,Male,Over 60,Single,No,Yes
+1,1,0,0,0,1,1,0,0,1,Male,31 to 40,Separated,No,Yes
+1,0,0,0,0,0,0,0,1,0,Male,31 to 40,Single,No,Yes
+1,0,0,0,0,0,0,0,1,0,Female,Over 60,Single,No,Yes
+1,0,0,0,0,0,0,0,0,0,Female,51 to 60,Single,No,Yes
+1,0,0,0,0,0,0,0,1,0,Female,41 to 50,Single,No,Yes
+1,1,0,0,0,1,0,0,1,0,Female,51 to 60,Widowed,No,Yes
+1,0,0,0,0,0,0,0,0,0,Female,41 to 50,Single,No,Yes
+1,0,0,0,0,1,0,0,0,0,Female,51 to 60,Widowed,No,Yes
+1,0,0,0,0,1,0,0,0,0,Male,18 to 30,Widowed,No,Yes
+1,1,0,0,0,1,0,1,0,1,Female,31 to 40,Separated,No,Yes
+1,0,0,0,1,0,0,0,1,0,Female,18 to 30,Divorced,No,Yes
+1,0,0,0,0,1,0,0,0,0,Female,41 to 50,Married,No,Yes
+1,0,0,0,0,0,0,0,0,0,Male,18 to 30,Divorced,No,Yes
+1,0,0,0,0,0,0,0,1,1,Male,18 to 30,Separated,No,Yes
+1,0,1,0,0,0,0,0,0,0,Male,41 to 50,Separated,No,Yes
+1,0,0,0,0,0,0,0,1,0,Male,31 to 40,Separated,No,Yes
+1,0,0,0,0,0,0,0,0,0,Female,41 to 50,Married,No,Yes
+1,1,1,0,0,0,0,1,0,0,Female,41 to 50,Widowed,No,Yes
+1,1,0,0,0,0,0,0,0,0,Female,51 to 60,Widowed,No,Yes
+1,0,0,0,0,0,0,0,0,0,Male,18 to 30,Widowed,No,Yes
+1,1,0,0,0,0,0,0,0,0,Male,31 to 40,Single,No,Yes
+1,0,0,0,0,1,0,0,0,0,Female,41 to 50,Divorced,No,Yes
+1,0,0,0,0,0,0,0,0,0,Female,41 to 50,Married,No,Yes
+1,0,0,0,0,0,0,0,0,0,Male,51 to 60,Married,No,Yes
+1,0,0,0,0,0,0,0,0,0,Male,31 to 40,Separated,No,Yes
+1,0,0,0,0,0,0,0,0,0,Female,31 to 40,Divorced,No,Yes
+1,0,0,0,0,0,0,0,0,0,Male,41 to 50,Widowed,No,Yes
+1,0,0,0,0,0,0,0,0,0,Female,31 to 40,Separated,No,Yes
+1,0,0,0,0,0,0,0,0,0,Male,Over 60,Separated,No,Yes
+1,0,0,0,0,0,0,0,0,0,Male,18 to 30,Separated,No,Yes
+1,0,0,0,0,0,0,0,1,0,Female,41 to 50,Separated,Yes,Yes
+1,0,0,0,0,0,0,0,1,1,Male,31 to 40,Married,Yes,Yes
+1,0,0,0,0,0,0,0,0,0,Male,31 to 40,Divorced,Yes,Yes
+1,0,0,0,0,1,0,0,0,0,Male,41 to 50,Widowed,No,Yes
+1,1,0,0,0,0,0,0,0,1,Female,51 to 60,Married,No,Yes
+1,0,0,0,0,1,0,0,0,0,Female,31 to 40,Single,No,Yes
+1,0,0,0,0,0,0,0,0,0,Male,51 to 60,Single,No,Yes
+1,1,1,0,0,0,0,0,0,0,Male,41 to 50,Single,No,Yes
+1,0,0,0,0,0,0,0,1,1,Female,41 to 50,Single,No,Yes
+1,0,0,0,0,0,0,0,1,0,Female,31 to 40,Single,No,Yes
+1,0,0,0,0,0,0,0,0,0,Female,18 to 30,Widowed,No,Yes
+1,0,0,0,0,0,0,0,0,0,Male,41 to 50,Divorced,No,Yes
+1,0,0,0,0,0,0,0,1,0,Female,51 to 60,Separated,No,Yes
+1,1,1,0,0,0,0,0,1,0,Male,31 to 40,Single,No,Yes
+1,0,0,0,0,0,0,0,0,0,Male,51 to 60,Married,No,Yes
+1,0,0,0,0,0,0,0,0,0,Male,41 to 50,Married,No,Yes
+1,0,0,0,1,0,0,0,1,0,Male,18 to 30,Married,No,Yes
+1,0,1,0,0,1,0,0,0,0,Male,51 to 60,Widowed,No,Yes
+1,1,0,0,0,0,0,1,1,0,Male,Over 60,Single,No,Yes
+1,0,0,0,0,0,0,0,0,0,Male,31 to 40,Divorced,No,Yes
+1,0,0,0,0,1,0,0,0,0,Male,Over 60,Separated,No,Yes
+1,0,0,0,0,0,0,0,1,1,Male,Over 60,Widowed,No,Yes
+1,0,0,0,0,1,0,1,1,1,Female,51 to 60,Widowed,No,Yes
+1,0,1,0,0,0,0,0,1,0,Female,Over 60,Separated,No,Yes
+1,1,0,0,0,0,0,0,0,0,Female,41 to 50,Separated,No,Yes
+1,0,0,0,0,0,0,0,0,0,Female,Over 60,Widowed,No,Yes
+1,0,0,0,0,1,0,0,0,0,Male,41 to 50,Widowed,No,Yes
+1,0,0,0,0,0,0,0,1,0,Male,41 to 50,Widowed,No,Yes
+1,0,0,0,0,1,0,0,1,0,Male,41 to 50,Widowed,No,Yes
+1,0,0,0,1,1,0,0,1,0,Male,Over 60,Married,No,Yes
+1,1,0,0,0,1,0,0,0,0,Female,51 to 60,Widowed,No,Yes
+1,0,1,0,1,0,0,0,0,0,Female,Over 60,Single,No,Yes
+1,0,0,0,0,0,0,0,0,0,Male,18 to 30,Widowed,No,Yes
+1,0,0,0,0,0,0,0,0,0,Female,41 to 50,Single,No,Yes
+1,0,0,0,0,1,0,0,0,0,Male,51 to 60,Divorced,No,Yes
+1,0,0,0,0,0,0,0,0,0,Male,31 to 40,Single,No,Yes
+1,0,0,0,0,1,0,0,0,0,Male,18 to 30,Separated,No,Yes
+1,0,0,0,0,0,0,0,0,0,Male,41 to 50,Married,No,Yes
+1,0,0,0,0,0,0,0,0,0,Female,31 to 40,Widowed,No,Yes
+1,0,0,0,0,0,0,0,0,0,Female,41 to 50,Divorced,No,Yes
+1,0,0,0,0,0,0,0,0,0,Male,18 to 30,Married,No,Yes
+1,0,0,0,1,1,0,1,1,0,Male,18 to 30,Married,No,Yes
+1,1,0,0,0,0,1,0,1,1,Female,18 to 30,Separated,No,Yes
+1,0,0,0,0,0,0,0,1,0,Male,31 to 40,Separated,No,Yes
+1,1,1,0,0,0,0,0,1,0,Male,18 to 30,Married,No,Yes
+1,0,0,0,0,0,0,0,0,0,Female,51 to 60,Married,No,Yes
+1,1,1,0,0,0,0,0,1,0,Male,51 to 60,Married,No,Yes
+1,0,0,0,0,0,0,0,0,0,Female,41 to 50,Married,No,Yes
+1,0,1,0,0,0,0,0,1,0,Female,31 to 40,Married,No,Yes
+1,1,1,0,1,1,0,0,0,1,Male,Over 60,Married,No,Yes
+1,0,0,0,0,0,0,0,0,0,Male,41 to 50,Separated,No,Yes
+1,1,0,0,0,0,0,0,0,0,Male,41 to 50,Widowed,No,Yes
+1,1,1,0,0,0,0,0,1,1,Female,Over 60,Married,No,Yes
+1,1,1,1,0,1,1,0,1,1,Female,31 to 40,Married,No,Yes
+1,1,1,0,0,1,0,1,1,1,Male,31 to 40,Single,No,Yes
+1,1,1,0,0,1,0,0,0,1,Male,41 to 50,Divorced,No,Yes
+1,1,1,0,1,1,0,0,0,1,Male,31 to 40,Divorced,No,Yes
+1,1,1,0,1,1,0,0,1,1,Female,41 to 50,Separated,No,Yes
+1,1,1,0,1,0,0,1,1,1,Male,41 to 50,Separated,No,Yes
+1,1,1,0,0,1,0,0,1,1,Female,51 to 60,Married,No,Yes
+0,0,0,0,0,0,0,0,0,1,Female,51 to 60,Widowed,No,Yes
+0,1,1,0,0,0,0,0,0,1,Female,41 to 50,Separated,No,Yes
+0,0,0,0,0,0,0,0,0,1,Female,41 to 50,Divorced,No,Yes
+0,0,0,0,0,0,0,0,0,1,Female,Over 60,Single,No,Yes
+1,0,0,0,0,0,0,0,0,1,Male,Over 60,Single,No,Yes
+1,0,1,0,0,0,0,0,0,1,Male,51 to 60,Widowed,No,Yes
+0,1,0,0,0,0,0,0,0,1,Female,Over 60,Single,No,Yes
+1,1,1,0,1,1,1,0,1,1,Male,51 to 60,Married,No,Yes
+0,0,1,0,0,0,0,0,0,1,Female,51 to 60,Married,No,Yes
+0,0,0,0,0,0,0,0,0,1,Female,31 to 40,Single,No,Yes
+0,0,0,0,0,0,0,0,0,1,Male,31 to 40,Married,Yes,Yes
+0,0,0,0,1,0,0,0,0,1,Male,51 to 60,Separated,Yes,Yes
+0,0,0,0,0,0,0,0,0,1,Female,51 to 60,Widowed,Yes,Yes
+0,0,0,1,0,0,0,0,0,1,Male,Over 60,Married,Yes,Yes
+0,0,0,0,0,0,0,0,0,1,Male,Over 60,Married,Yes,No
+0,0,0,0,0,0,0,0,0,1,Female,41 to 50,Married,Yes,Yes
+0,0,1,0,0,1,0,0,0,1,Female,51 to 60,Widowed,Yes,Yes
+0,0,0,0,0,0,0,0,0,1,Male,31 to 40,Widowed,Yes,Yes
+0,0,0,0,0,0,0,0,0,1,Female,51 to 60,Divorced,Yes,Yes
+1,0,1,0,0,1,0,0,1,1,Male,31 to 40,Widowed,Yes,Yes
+0,0,0,0,0,1,0,0,0,1,Female,Over 60,Married,Yes,Yes
+0,0,0,0,0,0,0,0,0,1,Female,Over 60,Widowed,Yes,Yes
+0,0,0,1,0,0,0,0,1,1,Female,Over 60,Single,Yes,Yes
+0,0,0,0,0,0,0,0,0,1,Male,31 to 40,Separated,Yes,Yes
+0,0,0,0,0,0,0,0,0,1,Male,41 to 50,Widowed,Yes,Yes
+0,0,0,0,0,0,0,0,0,1,Female,Over 60,Married,Yes,Yes
+0,0,1,0,0,0,0,0,1,1,Female,Over 60,Married,Yes,Yes
+0,0,0,0,0,0,0,0,0,1,Female,51 to 60,Separated,Yes,Yes
+0,1,0,0,0,0,0,0,0,1,Female,51 to 60,Separated,Yes,Yes
+0,0,0,0,0,0,0,0,0,1,Female,18 to 30,Widowed,Yes,Yes
+1,0,0,0,0,0,0,0,0,1,Female,51 to 60,Married,Yes,Yes
+0,0,0,0,0,0,0,0,0,1,Male,51 to 60,Separated,Yes,Yes
+1,0,1,0,1,0,0,0,1,1,Male,51 to 60,Separated,Yes,Yes
+1,1,0,0,0,0,0,0,1,1,Male,Over 60,Divorced,Yes,Yes
+1,0,0,0,0,1,0,0,0,1,Male,51 to 60,Divorced,Yes,Yes
+1,0,0,0,0,0,0,0,0,1,Female,51 to 60,Married,Yes,Yes
+0,0,0,0,0,0,0,0,0,1,Female,41 to 50,Single,Yes,Yes
+0,0,1,1,0,0,0,0,0,1,Male,41 to 50,Widowed,Yes,Yes
+0,0,0,0,0,0,0,0,0,1,Male,41 to 50,Single,Yes,Yes
+0,0,0,0,0,0,0,0,0,1,Male,51 to 60,Divorced,Yes,Yes
+0,0,0,0,0,0,0,0,1,1,Male,41 to 50,Separated,Yes,Yes
+1,0,0,0,0,0,0,0,1,1,Female,31 to 40,Divorced,Yes,Yes
+0,1,0,0,0,1,0,0,0,1,Male,41 to 50,Separated,Yes,Yes
+0,0,0,0,0,0,0,0,0,1,Female,51 to 60,Married,Yes,Yes
+0,1,0,0,0,0,0,0,0,1,Male,41 to 50,Married,Yes,Yes
+0,0,0,0,0,0,0,0,1,1,Female,Over 60,Married,Yes,Yes
+0,0,0,0,0,0,0,0,0,1,Female,31 to 40,Divorced,Yes,Yes
+0,0,0,0,0,0,0,0,0,1,Female,Over 60,Married,Yes,Yes
+0,0,0,0,0,1,0,0,0,1,Female,41 to 50,Separated,Yes,Yes
+0,0,0,0,0,0,0,0,0,1,Female,51 to 60,Divorced,Yes,Yes
+1,0,0,0,1,1,0,0,0,1,Female,41 to 50,Married,Yes,Yes
+0,0,0,0,0,0,0,0,0,1,Male,41 to 50,Divorced,Yes,Yes
+0,0,0,0,0,0,0,0,0,1,Male,31 to 40,Widowed,Yes,Yes
+0,0,0,0,0,0,0,0,0,1,Female,Over 60,Married,Yes,Yes
+0,0,0,0,1,0,0,0,1,1,Female,41 to 50,Widowed,Yes,Yes
+0,0,0,0,0,0,0,0,0,1,Male,Over 60,Widowed,Yes,Yes
+1,1,0,0,0,0,0,0,0,1,Female,31 to 40,Separated,Yes,Yes
+0,0,0,0,0,1,0,1,1,1,Female,41 to 50,Married,Yes,Yes
+0,0,0,0,0,0,0,0,1,1,Male,51 to 60,Separated,Yes,Yes
+0,1,1,0,0,1,0,0,0,1,Female,51 to 60,Married,Yes,Yes
+0,0,0,0,0,0,0,0,0,1,Male,41 to 50,Single,Yes,Yes
+1,0,0,0,0,0,0,0,0,1,Male,Over 60,Married,Yes,Yes
+0,0,0,0,0,0,0,0,1,1,Male,41 to 50,Married,Yes,Yes
+0,0,0,0,0,0,0,0,0,1,Female,31 to 40,Widowed,Yes,Yes
+1,0,0,1,0,0,0,0,1,1,Female,31 to 40,Separated,Yes,Yes
+0,0,0,0,0,0,0,0,0,1,Female,31 to 40,Married,Yes,Yes
+1,1,1,1,1,1,0,0,1,1,Female,51 to 60,Widowed,Yes,Yes
+1,0,0,0,0,0,0,0,0,1,Male,41 to 50,Married,No,Yes
+1,0,0,0,1,1,0,0,0,1,Female,31 to 40,Separated,No,Yes
+1,0,0,0,1,1,0,0,0,1,Male,51 to 60,Separated,No,Yes
+0,0,0,0,0,0,0,0,0,1,Female,51 to 60,Widowed,No,Yes
+0,0,0,0,0,0,0,0,1,1,Male,41 to 50,Single,No,Yes
+0,0,0,0,0,0,0,0,1,1,Male,31 to 40,Separated,No,Yes
+1,1,1,0,1,1,0,1,1,1,Female,51 to 60,Divorced,No,Yes
+0,0,0,0,0,0,0,0,0,1,Male,51 to 60,Widowed,No,No
+1,0,1,0,0,1,0,0,0,1,Male,18 to 30,Separated,No,No
+1,0,0,0,0,0,0,0,1,1,Male,Over 60,Single,No,No
+0,0,0,0,0,0,0,0,0,1,Female,Over 60,Divorced,No,No
+0,1,0,0,1,1,0,0,1,1,Female,51 to 60,Separated,Yes,No
+0,1,0,1,0,1,0,0,1,1,Male,41 to 50,Single,Yes,No
+1,0,0,0,0,0,0,0,0,1,Male,41 to 50,Separated,Yes,No
+0,0,0,0,0,0,0,0,0,1,Male,31 to 40,Widowed,Yes,No
+0,0,0,0,0,0,0,0,0,1,Male,31 to 40,Married,Yes,No
+0,0,0,0,0,1,0,0,0,1,Female,31 to 40,Separated,Yes,No
+0,0,0,0,0,0,0,0,1,1,Female,31 to 40,Married,Yes,No
+0,1,0,0,0,0,0,0,0,1,Female,51 to 60,Married,Yes,No
+1,0,0,1,1,1,0,0,1,1,Male,41 to 50,Married,Yes,No
+0,1,0,0,0,0,0,0,0,1,Male,51 to 60,Divorced,Yes,No
+0,1,1,0,0,0,0,0,0,1,Male,41 to 50,Widowed,Yes,No
+0,0,0,0,0,1,0,0,0,1,Male,51 to 60,Married,Yes,No
+0,1,1,0,0,1,0,0,0,1,Female,31 to 40,Single,Yes,No
+0,0,0,0,0,0,0,0,0,1,Male,41 to 50,Single,Yes,No
+0,1,0,1,0,1,0,0,1,1,Female,51 to 60,Married,Yes,No
+1,0,1,0,0,0,0,0,1,1,Female,31 to 40,Married,Yes,No
+1,0,0,0,0,0,0,0,1,1,Female,18 to 30,Single,Yes,No
+1,0,0,0,0,0,0,0,1,1,Female,Over 60,Divorced,Yes,No
+0,1,0,0,0,1,0,0,0,1,Female,51 to 60,Single,Yes,No
+0,0,0,0,0,0,0,0,0,1,Male,Over 60,Married,Yes,No
+0,0,0,0,0,0,0,0,1,1,Female,31 to 40,Married,Yes,No
+0,0,0,0,0,0,0,0,0,1,Male,41 to 50,Single,Yes,No
+0,0,0,0,0,0,0,0,0,1,Female,51 to 60,Widowed,Yes,No
+1,0,0,0,0,1,0,0,1,1,Male,Over 60,Single,Yes,No
+0,0,0,0,0,1,0,0,0,1,Male,51 to 60,Widowed,Yes,No
+0,0,0,0,0,0,0,0,0,1,Male,41 to 50,Married,Yes,No
+0,1,0,0,0,0,0,0,1,1,Male,51 to 60,Divorced,Yes,No
+0,0,0,0,0,0,0,0,0,1,Male,51 to 60,Widowed,Yes,No
+0,0,0,0,0,0,0,0,1,1,Male,31 to 40,Separated,Yes,No
+1,0,1,0,0,1,0,1,1,1,Male,31 to 40,Widowed,Yes,No
+0,1,0,0,0,1,0,0,0,1,Male,31 to 40,Married,Yes,No
+0,0,0,0,0,0,0,0,0,1,Male,41 to 50,Married,Yes,No
+0,0,0,0,0,1,0,0,1,1,Male,Over 60,Separated,Yes,No
+0,0,1,0,1,0,0,0,1,1,Male,51 to 60,Widowed,Yes,No
+0,0,0,0,0,0,0,1,0,1,Male,31 to 40,Divorced,Yes,No
+1,0,0,0,0,0,1,0,1,1,Male,41 to 50,Married,Yes,No
+0,0,0,0,0,0,0,0,0,1,Male,Over 60,Separated,Yes,No
+0,0,0,0,1,0,0,0,0,1,Male,31 to 40,Divorced,Yes,No
+0,0,0,0,0,0,0,0,0,1,Male,Over 60,Married,Yes,No
+0,1,0,0,0,1,0,0,1,1,Male,51 to 60,Married,Yes,No
+0,0,0,0,0,0,0,0,0,1,Male,41 to 50,Widowed,Yes,No
+0,0,0,0,0,0,0,0,0,1,Female,31 to 40,Married,Yes,No
+0,0,1,0,0,1,0,0,0,1,Female,41 to 50,Widowed,No,No
+0,0,0,0,0,0,0,0,0,1,Female,31 to 40,Widowed,No,No
+1,0,0,0,0,0,0,0,1,1,Female,31 to 40,Separated,No,No
+0,0,0,0,0,1,0,0,0,1,Female,41 to 50,Single,No,No
+0,0,0,0,1,1,0,0,0,1,Female,Over 60,Widowed,No,No
+0,1,0,0,0,0,0,0,0,1,Female,41 to 50,Widowed,No,No
+0,1,0,0,0,1,0,0,0,1,Female,51 to 60,Separated,No,No
+0,0,0,0,0,0,0,0,0,1,Female,18 to 30,Married,No,No
+0,0,1,0,0,0,0,0,0,1,Female,Over 60,Separated,No,No
+0,0,0,0,0,0,0,0,0,1,Female,31 to 40,Separated,No,No
+0,1,0,0,0,1,0,0,1,1,Female,41 to 50,Married,No,Yes
+0,0,0,0,0,0,0,0,0,1,Female,51 to 60,Married,No,Yes
+0,0,0,0,0,0,0,0,1,1,Female,51 to 60,Married,No,Yes
+1,0,1,0,0,1,0,0,0,1,Female,51 to 60,Separated,No,Yes
+1,1,1,1,0,1,0,0,1,1,Female,41 to 50,Married,No,Yes
+0,0,0,0,0,0,0,0,0,1,Female,41 to 50,Married,No,Yes
+0,0,1,0,0,1,0,0,0,1,Female,51 to 60,Widowed,No,Yes
+1,1,1,0,1,1,0,1,1,1,Female,31 to 40,Married,No,Yes
+1,0,0,0,0,0,0,0,1,1,Female,51 to 60,Married,No,Yes
+0,0,0,0,0,0,0,0,0,1,Female,31 to 40,Married,No,Yes
+1,1,0,1,0,1,1,0,1,1,Female,Over 60,Separated,No,Yes
+1,0,1,0,0,1,0,0,1,1,Female,18 to 30,Divorced,No,Yes
+0,0,0,0,0,0,0,0,0,1,Female,18 to 30,Married,No,Yes
+1,0,0,0,0,1,0,0,1,1,Female,51 to 60,Single,No,Yes
+0,0,0,1,1,1,0,0,1,1,Female,31 to 40,Separated,No,Yes
+0,0,0,0,0,0,0,0,1,1,Female,31 to 40,Separated,No,Yes
+1,0,0,0,0,1,0,0,0,1,Female,41 to 50,Married,No,Yes
+1,1,0,0,0,0,0,0,1,1,Female,51 to 60,Married,No,Yes
+0,0,0,0,0,0,0,0,1,1,Female,31 to 40,Separated,No,Yes
+0,0,0,0,0,0,0,0,0,1,Female,18 to 30,Married,No,Yes
+0,1,0,0,0,1,0,0,0,1,Female,31 to 40,Married,No,Yes
+0,1,0,0,0,0,0,0,0,1,Female,Over 60,Married,No,Yes
+0,0,0,1,0,0,0,0,0,1,Female,31 to 40,Divorced,No,Yes
+1,0,0,1,1,1,0,0,1,1,Female,18 to 30,Married,No,Yes
+0,0,0,0,0,0,0,0,1,1,Female,18 to 30,Separated,No,Yes
+1,1,0,0,0,0,0,0,0,1,Female,41 to 50,Married,No,Yes
+1,0,0,0,1,0,0,0,1,1,Female,41 to 50,Married,No,Yes
+0,0,0,0,0,1,0,0,0,1,Female,41 to 50,Divorced,No,Yes
+0,0,0,0,0,0,0,0,0,1,Female,41 to 50,Separated,No,Yes
+0,0,0,0,0,0,0,0,0,1,Female,51 to 60,Single,No,Yes
+1,1,1,0,1,0,1,1,1,0,Male,51 to 60,Divorced,No,Yes
+1,0,0,0,0,0,0,0,1,0,Male,51 to 60,Married,No,Yes
+1,1,1,0,1,1,0,1,1,0,Male,31 to 40,Divorced,No,Yes
+1,0,1,0,0,1,0,0,1,1,Female,31 to 40,Married,No,Yes
+1,0,1,0,1,1,0,0,1,1,Female,41 to 50,Single,No,Yes
+1,0,0,0,0,0,0,1,1,0,Female,31 to 40,Married,No,Yes
+1,0,1,0,0,1,0,1,0,0,Female,31 to 40,Separated,No,Yes
+1,1,1,1,1,1,1,0,1,1,Male,51 to 60,Separated,No,Yes
+1,0,1,0,0,1,0,0,0,0,Male,18 to 30,Widowed,No,Yes
+1,1,0,1,1,1,0,0,0,1,Female,31 to 40,Divorced,No,Yes
+1,0,1,0,0,0,0,0,1,1,Female,51 to 60,Separated,No,Yes
+1,1,1,0,0,1,0,0,0,1,Male,41 to 50,Separated,No,Yes
+1,0,0,0,0,0,0,0,1,0,Male,18 to 30,Widowed,No,Yes
+1,0,0,0,1,1,0,1,0,0,Male,41 to 50,Separated,No,Yes
+1,0,0,0,0,1,0,0,0,0,Female,31 to 40,Widowed,No,Yes
+1,1,1,0,1,1,0,1,1,0,Male,51 to 60,Widowed,No,Yes
+1,0,1,1,1,1,0,0,1,1,Male,31 to 40,Divorced,No,Yes
+1,1,1,0,1,1,0,0,0,0,Female,31 to 40,Married,No,Yes
+1,1,1,0,1,1,1,0,1,1,Female,31 to 40,Divorced,No,Yes
+1,0,1,0,0,1,0,0,1,1,Female,51 to 60,Married,No,Yes
+1,1,1,0,1,1,0,0,1,1,Female,18 to 30,Divorced,No,Yes
+1,1,1,0,1,1,0,0,1,1,Female,51 to 60,Single,No,Yes
+1,1,1,1,1,1,0,0,0,0,Female,Over 60,Divorced,No,Yes
+1,0,0,0,0,1,0,0,0,0,Female,Over 60,Separated,No,Yes
+1,0,0,0,0,0,0,0,1,0,Female,31 to 40,Widowed,No,Yes
+1,0,1,0,0,1,0,0,0,0,Male,31 to 40,Separated,No,Yes
+1,0,0,0,0,1,0,0,0,0,Male,51 to 60,Separated,No,Yes
+1,1,1,0,0,1,0,0,1,0,Female,41 to 50,Separated,No,Yes
+1,1,1,0,1,0,0,0,1,0,Female,41 to 50,Widowed,No,Yes
+1,1,0,1,1,1,1,1,1,1,Female,31 to 40,Widowed,No,Yes
+1,0,1,0,1,1,0,0,1,0,Male,31 to 40,Married,No,Yes
+1,1,1,0,0,1,0,0,1,1,Male,Over 60,Married,No,Yes
+1,1,1,0,1,1,0,0,1,1,Female,31 to 40,Widowed,No,Yes
+1,0,1,1,1,1,0,0,1,1,Male,41 to 50,Widowed,No,Yes
+1,1,1,0,1,1,1,0,1,1,Male,41 to 50,Single,No,Yes
+1,0,1,0,1,1,0,0,1,1,Male,18 to 30,Single,No,Yes
+1,1,1,1,0,1,0,0,1,1,Female,51 to 60,Separated,No,Yes
+1,1,1,1,1,1,0,0,0,1,Female,18 to 30,Divorced,No,Yes
+1,1,1,1,1,1,0,0,1,1,Female,31 to 40,Separated,No,Yes
+1,1,1,0,0,1,0,0,1,1,Male,31 to 40,Married,No,Yes
+0,1,1,0,1,1,0,0,1,1,Female,31 to 40,Widowed,No,Yes
+1,1,1,0,1,0,0,0,0,1,Female,41 to 50,Widowed,No,Yes
+1,0,1,0,1,1,0,0,1,1,Female,41 to 50,Separated,No,Yes
+0,1,1,1,1,1,0,1,0,1,Male,41 to 50,Divorced,No,Yes
+1,1,1,0,1,0,0,0,1,1,Female,41 to 50,Widowed,No,Yes
+1,1,1,0,1,1,0,0,0,1,Female,31 to 40,Separated,No,Yes
+1,1,1,0,1,1,0,0,0,1,Male,51 to 60,Widowed,No,Yes
+1,1,1,1,1,1,0,1,1,1,Male,Over 60,Widowed,No,Yes
+1,1,1,0,1,1,0,0,0,1,Male,31 to 40,Separated,No,Yes
+1,1,1,0,1,0,1,0,1,1,Female,41 to 50,Divorced,No,Yes
+1,1,0,0,1,1,0,0,1,1,Male,51 to 60,Widowed,No,Yes
+1,1,1,0,1,1,1,1,1,1,Female,18 to 30,Married,No,Yes
+1,1,1,0,1,0,1,1,1,1,Male,41 to 50,Widowed,No,Yes
+1,1,1,0,1,1,0,0,1,1,Female,51 to 60,Married,No,Yes
+1,1,1,0,1,1,1,0,1,1,Female,18 to 30,Married,No,Yes
+1,1,1,1,1,1,0,0,0,1,Male,51 to 60,Married,No,Yes
+1,1,1,1,1,1,0,1,1,1,Male,51 to 60,Single,No,Yes
+1,1,1,1,1,1,0,1,1,1,Female,Over 60,Widowed,No,Yes
+1,1,1,0,0,1,0,0,1,1,Female,51 to 60,Married,No,Yes
+0,0,0,0,1,0,0,0,0,1,Male,51 to 60,Married,No,Yes
+1,1,1,0,1,1,0,0,1,1,Male,31 to 40,Married,No,Yes
+1,1,1,0,1,1,0,0,1,1,Male,51 to 60,Separated,No,Yes
+1,1,1,1,0,1,0,1,1,1,Male,18 to 30,Separated,No,Yes
+1,0,0,0,1,1,0,0,1,1,Male,51 to 60,Divorced,No,Yes
+1,0,1,0,1,0,1,0,0,1,Male,51 to 60,Widowed,No,Yes
+1,0,1,0,1,1,0,0,1,1,Male,41 to 50,Divorced,No,Yes
+1,1,1,1,0,0,1,0,1,1,Female,31 to 40,Widowed,No,Yes
+1,0,1,0,0,1,0,0,1,1,Female,51 to 60,Separated,No,Yes
+1,1,1,0,1,1,0,0,1,1,Male,18 to 30,Divorced,No,Yes
+1,1,1,0,0,1,1,0,1,1,Male,41 to 50,Separated,No,Yes
+1,0,1,1,1,0,0,0,0,1,Female,51 to 60,Separated,No,Yes
+0,1,0,0,1,0,0,0,0,1,Male,41 to 50,Separated,No,Yes
+0,1,0,0,0,0,0,1,0,1,Male,51 to 60,Widowed,No,Yes
+0,1,1,1,1,1,0,1,0,1,Male,51 to 60,Married,No,Yes
+1,1,1,1,0,0,0,0,1,1,Female,51 to 60,Widowed,No,Yes
+1,1,0,0,1,1,0,0,0,1,Female,31 to 40,Separated,No,Yes
+1,1,1,0,0,0,0,0,0,1,Female,51 to 60,Widowed,No,Yes
+0,0,0,0,1,0,0,0,1,1,Male,41 to 50,Single,No,Yes
+0,1,0,0,0,0,0,0,0,1,Female,51 to 60,Married,No,Yes
+1,1,0,0,0,0,0,0,0,1,Female,51 to 60,Widowed,No,Yes
+0,1,1,0,0,0,0,0,1,1,Female,31 to 40,Single,No,Yes
+0,0,0,0,0,1,0,0,1,1,Female,18 to 30,Married,Yes,No
+1,0,1,0,1,1,0,1,1,0,Female,18 to 30,Single,Yes,Yes
+0,0,0,1,0,0,0,0,1,1,Female,18 to 30,Widowed,Yes,Yes
+1,0,0,0,0,1,0,0,1,0,Female,18 to 30,Married,Yes,Yes
+0,1,1,0,0,0,0,1,1,0,Female,18 to 30,Separated,Yes,Yes
+1,1,0,0,0,1,0,0,0,0,Female,18 to 30,Separated,Yes,Yes
+0,1,1,0,1,1,0,0,1,1,Female,18 to 30,Single,Yes,Yes
+0,0,0,0,0,0,0,0,1,0,Female,18 to 30,Single,Yes,Yes
+1,0,0,0,0,1,0,0,0,0,Female,18 to 30,Single,Yes,Yes
+1,1,1,0,0,1,0,0,1,1,Female,18 to 30,Single,Yes,Yes
+0,0,0,1,0,1,0,0,0,0,Female,18 to 30,Single,Yes,Yes
+0,0,0,0,0,1,0,0,0,0,Female,18 to 30,Single,Yes,Yes
+0,0,1,0,0,0,0,0,1,1,Female,18 to 30,Single,Yes,No
+1,0,0,0,1,1,0,0,1,0,Female,18 to 30,Single,Yes,Yes
+0,1,0,0,0,1,0,1,1,1,Female,18 to 30,Single,Yes,Yes
+0,1,1,0,0,1,0,1,1,1,Female,18 to 30,Single,Yes,Yes
+1,1,1,0,0,1,0,0,0,1,Female,18 to 30,Single,Yes,Yes
+0,0,1,0,0,0,0,0,1,1,Female,18 to 30,Single,Yes,Yes
+0,0,0,0,0,0,0,0,1,0,Female,18 to 30,Single,Yes,Yes
+0,0,0,1,0,0,0,0,1,0,Female,18 to 30,Single,Yes,Yes
+1,0,0,0,1,1,1,0,0,1,Female,18 to 30,Single,Yes,Yes
+0,0,0,0,0,0,0,0,1,0,Female,18 to 30,Single,Yes,Yes
+0,0,0,0,0,0,0,0,1,1,Female,18 to 30,Single,Yes,Yes
+0,1,0,0,0,1,0,0,0,0,Female,18 to 30,Single,Yes,Yes
+0,1,1,0,0,1,0,0,0,0,Female,18 to 30,Single,Yes,Yes
+0,0,0,0,0,0,0,0,1,0,Female,18 to 30,Single,Yes,Yes
+0,0,0,0,0,0,0,0,1,0,Female,18 to 30,Single,Yes,No
+0,0,0,0,0,1,0,0,1,0,Female,18 to 30,Single,Yes,Yes
+0,1,1,0,1,1,0,0,1,0,Female,18 to 30,Married,Yes,Yes
+0,0,0,0,1,1,0,0,1,0,Female,18 to 30,Married,Yes,Yes
+0,0,1,0,0,0,0,0,1,0,Female,18 to 30,Married,Yes,Yes
+0,1,0,0,0,1,0,0,1,1,Female,18 to 30,Married,Yes,Yes
+0,1,1,1,1,1,0,0,1,1,Female,18 to 30,Married,Yes,Yes
+0,0,0,0,0,1,0,0,0,0,Female,18 to 30,Married,Yes,Yes
+1,1,0,0,1,1,0,0,0,1,Female,18 to 30,Married,Yes,Yes
+1,1,0,0,0,1,0,0,0,1,Female,18 to 30,Married,Yes,Yes
+0,0,0,0,0,1,0,0,0,0,Female,18 to 30,Married,Yes,Yes
+0,0,0,0,0,1,0,0,0,0,Female,18 to 30,Married,Yes,Yes
+0,0,0,0,0,1,0,0,1,0,Female,18 to 30,Married,Yes,Yes
+1,1,0,0,0,0,0,0,1,0,Female,18 to 30,Married,Yes,No
+0,0,0,0,0,0,0,0,1,0,Female,18 to 30,Married,Yes,Yes
+0,0,0,0,0,1,0,1,1,0,Female,31 to 40,Married,Yes,Yes
+0,0,0,0,0,1,0,0,0,0,Female,31 to 40,Married,Yes,Yes
+0,0,0,0,0,0,0,0,1,0,Female,31 to 40,Married,Yes,Yes
+0,0,0,0,0,0,0,0,1,0,Female,31 to 40,Married,Yes,Yes
+0,0,0,0,0,1,0,1,1,0,Female,31 to 40,Married,Yes,Yes
+0,1,0,0,1,1,0,1,1,1,Female,31 to 40,Married,Yes,Yes
+0,0,0,0,1,0,0,0,0,0,Female,31 to 40,Married,Yes,Yes
+0,0,0,1,1,1,0,0,1,1,Female,31 to 40,Married,Yes,Yes
+0,0,1,0,0,1,0,1,1,0,Female,31 to 40,Married,Yes,Yes
+0,1,0,1,0,1,0,0,1,0,Female,31 to 40,Married,Yes,Yes
+1,0,0,0,0,1,0,0,0,0,Female,31 to 40,Married,Yes,No
+1,0,0,0,1,1,0,0,0,0,Female,31 to 40,Married,Yes,No
+1,0,0,0,0,1,0,0,0,1,Female,31 to 40,Married,Yes,No
+0,0,0,0,0,1,0,0,1,0,Female,31 to 40,Married,Yes,No
+0,0,0,0,0,1,0,0,0,0,Female,31 to 40,Married,Yes,No
+0,0,0,0,0,0,0,0,1,0,Female,31 to 40,Married,Yes,No
+1,0,0,0,1,1,0,0,0,0,Female,31 to 40,Married,Yes,Yes
+0,0,1,0,1,1,0,0,0,0,Female,31 to 40,Married,Yes,Yes
+0,0,0,0,0,1,0,0,1,1,Female,31 to 40,Married,Yes,Yes
+1,0,0,0,0,1,0,0,1,0,Female,31 to 40,Married,Yes,Yes
+1,1,0,0,0,1,0,0,1,0,Female,31 to 40,Separated,Yes,Yes
+0,0,1,0,0,1,0,0,0,0,Female,31 to 40,Separated,Yes,Yes
+0,0,0,0,0,0,0,0,1,0,Female,31 to 40,Widowed,Yes,Yes
+0,0,0,0,0,1,0,1,1,0,Female,31 to 40,Separated,Yes,Yes
+1,0,0,0,1,0,0,0,0,1,Female,31 to 40,Separated,Yes,Yes
+1,1,0,0,0,1,0,0,0,1,Female,31 to 40,Separated,Yes,Yes
+0,1,0,0,0,0,0,0,1,0,Female,31 to 40,Married,Yes,Yes
+0,0,0,0,0,1,0,0,0,0,Female,31 to 40,Married,Yes,Yes
+0,0,0,0,0,1,0,0,0,0,Female,31 to 40,Separated,Yes,Yes
+0,0,0,1,1,0,1,0,1,0,Female,31 to 40,Married,Yes,Yes
+0,1,0,0,0,1,0,0,0,1,Female,31 to 40,Separated,Yes,Yes
+1,1,1,0,1,1,1,0,1,1,Female,31 to 40,Divorced,Yes,Yes
+0,0,0,0,0,0,0,0,1,0,Female,31 to 40,Separated,Yes,Yes
+0,0,0,0,0,0,0,0,1,0,Female,31 to 40,Divorced,Yes,Yes
+0,0,0,0,0,1,0,0,0,0,Female,31 to 40,Widowed,Yes,No
+0,1,1,0,0,1,0,1,1,1,Female,31 to 40,Widowed,Yes,No
+1,0,0,0,0,1,0,0,0,0,Female,31 to 40,Separated,Yes,No
+0,1,1,0,0,1,0,0,1,0,Female,31 to 40,Separated,Yes,No
+0,0,0,0,0,0,0,0,1,1,Female,31 to 40,Single,Yes,Yes
+1,1,1,0,1,1,0,1,1,1,Female,31 to 40,Single,Yes,Yes
+0,0,0,0,0,0,0,0,1,0,Female,31 to 40,Married,Yes,Yes
+1,1,0,0,0,1,0,0,1,0,Female,31 to 40,Divorced,Yes,Yes
+0,0,0,0,0,0,0,0,1,1,Female,31 to 40,Divorced,Yes,Yes
+0,0,1,0,0,1,0,0,0,1,Female,31 to 40,Separated,Yes,Yes
+0,0,0,0,0,0,0,0,1,0,Female,31 to 40,Widowed,Yes,Yes
+1,0,1,0,0,1,0,1,1,0,Female,31 to 40,Separated,No,Yes
+0,0,1,0,0,1,0,0,1,0,Female,31 to 40,Widowed,No,Yes
+0,1,0,0,0,1,0,0,1,1,Female,31 to 40,Single,No,Yes
+0,0,1,0,0,0,0,0,1,1,Female,41 to 50,Single,No,Yes
+0,0,0,0,0,0,0,0,1,0,Female,41 to 50,Married,No,Yes
+1,1,0,0,0,1,0,0,1,1,Female,51 to 60,Divorced,No,Yes
+1,1,0,1,1,1,0,1,1,1,Female,51 to 60,Separated,No,Yes
+1,0,0,0,1,1,0,0,0,1,Female,41 to 50,Widowed,No,Yes
+1,1,1,0,0,1,0,0,0,0,Female,31 to 40,Married,No,Yes
+1,1,1,0,1,1,0,0,1,1,Female,41 to 50,Married,No,Yes
+1,0,0,0,1,1,0,0,1,1,Female,Over 60,Married,No,Yes
+0,1,1,0,0,1,0,0,1,0,Female,Over 60,Married,No,Yes
+0,1,0,0,0,1,0,0,1,1,Female,51 to 60,Married,No,Yes
+1,1,1,0,0,1,0,0,1,1,Female,31 to 40,Married,No,Yes
+0,0,0,0,0,0,0,0,1,0,Female,51 to 60,Widowed,No,Yes
+1,0,1,0,0,1,0,0,1,1,Female,31 to 40,Separated,No,Yes
+0,0,0,0,0,1,0,0,0,0,Female,41 to 50,Widowed,No,Yes
+0,0,0,0,0,0,0,0,1,0,Female,Over 60,Widowed,No,Yes
+1,0,0,0,1,1,0,0,1,0,Female,31 to 40,Widowed,No,Yes
+1,0,0,0,0,1,0,0,0,0,Female,Over 60,Married,No,Yes
+0,0,0,0,0,0,0,0,1,0,Female,51 to 60,Separated,No,Yes
+1,1,0,0,0,1,0,0,1,1,Male,Over 60,Single,No,Yes
+1,1,0,0,1,0,0,0,1,0,Female,18 to 30,Divorced,No,Yes
+0,0,1,1,0,0,0,1,1,1,Male,51 to 60,Divorced,No,Yes
+1,0,0,0,0,1,0,0,0,0,Male,41 to 50,Married,No,Yes
+0,0,1,0,1,1,0,0,1,1,Male,51 to 60,Married,No,Yes
+0,1,1,0,1,1,0,1,1,0,Male,41 to 50,Widowed,No,Yes
+0,0,0,0,0,0,0,0,1,0,Male,41 to 50,Widowed,No,Yes
+1,1,1,0,0,1,0,0,1,1,Female,18 to 30,Separated,No,Yes
+0,1,0,1,1,0,0,0,0,1,Male,41 to 50,Single,No,Yes
+0,1,1,0,0,1,0,1,1,0,Female,41 to 50,Widowed,No,Yes
+1,0,0,0,0,1,0,0,1,0,Female,18 to 30,Widowed,No,Yes
+0,1,0,0,0,1,0,0,0,0,Male,18 to 30,Widowed,No,Yes
+1,1,1,0,1,1,0,1,1,1,Male,31 to 40,Separated,No,Yes
+0,0,0,0,0,1,0,0,0,0,Male,31 to 40,Divorced,No,Yes
+0,1,1,1,0,0,0,0,1,1,Male,18 to 30,Widowed,No,Yes
+1,0,1,0,1,1,0,0,1,0,Male,18 to 30,Married,No,Yes
+1,1,0,0,1,1,0,0,0,1,Male,Over 60,Widowed,No,Yes
+0,0,0,1,1,0,0,0,1,0,Female,Over 60,Separated,Yes,Yes
+0,0,0,0,0,0,0,0,1,0,Female,41 to 50,Widowed,Yes,Yes
+0,0,1,1,1,1,0,0,0,0,Male,31 to 40,Widowed,Yes,Yes
+0,1,0,0,0,1,0,0,0,1,Male,31 to 40,Divorced,Yes,Yes
+1,0,1,0,0,1,0,0,0,1,Female,Over 60,Married,Yes,Yes
+0,0,0,0,0,1,0,0,0,0,Male,51 to 60,Married,Yes,Yes
+1,1,0,0,1,1,0,1,0,1,Female,31 to 40,Widowed,Yes,Yes
+0,1,0,0,0,1,0,0,1,0,Female,41 to 50,Single,Yes,Yes
+0,0,0,0,0,0,0,0,1,0,Female,41 to 50,Separated,Yes,Yes
+1,1,1,1,0,1,0,0,1,1,Male,41 to 50,Married,Yes,No
+0,0,0,1,0,1,0,0,1,1,Female,41 to 50,Widowed,Yes,No
+1,1,1,0,0,1,0,1,0,1,Male,31 to 40,Separated,Yes,No
+0,0,0,0,0,0,0,1,1,1,Male,Over 60,Widowed,Yes,No
+0,0,0,0,1,1,0,1,0,0,Male,31 to 40,Separated,Yes,No
+0,0,0,0,0,1,0,0,1,1,Female,51 to 60,Married,Yes,Yes
+0,0,0,0,0,1,0,0,1,0,Female,31 to 40,Separated,Yes,Yes
+1,0,0,1,0,1,0,0,0,1,Male,51 to 60,Widowed,Yes,Yes
+1,0,1,0,0,1,0,0,1,0,Male,51 to 60,Married,Yes,Yes
+0,0,0,0,0,0,0,0,1,0,Male,31 to 40,Separated,Yes,Yes
+0,1,0,0,1,1,0,0,1,1,Male,18 to 30,Divorced,Yes,Yes
+0,0,0,0,0,1,0,0,0,1,Male,31 to 40,Separated,Yes,Yes
+1,0,0,1,1,1,0,1,1,1,Male,51 to 60,Divorced,Yes,Yes
+0,0,0,1,0,0,0,1,1,1,Male,18 to 30,Married,Yes,Yes
+0,0,0,0,0,1,0,0,1,0,Male,18 to 30,Widowed,Yes,Yes
+0,0,0,0,0,0,0,0,1,0,Female,31 to 40,Widowed,Yes,Yes
+0,1,0,0,0,0,0,0,1,0,Male,31 to 40,Single,Yes,Yes
+0,0,0,1,1,1,0,0,0,1,Female,41 to 50,Separated,Yes,Yes
+0,0,1,0,0,1,0,0,1,0,Male,41 to 50,Married,Yes,Yes
+0,1,1,0,0,1,0,0,1,0,Female,31 to 40,Single,Yes,Yes
+1,0,1,0,1,1,0,0,1,1,Female,51 to 60,Divorced,Yes,Yes
+0,0,0,0,0,0,0,0,1,0,Male,41 to 50,Widowed,Yes,Yes
+0,0,0,0,0,0,0,0,1,0,Female,41 to 50,Separated,Yes,Yes
+0,0,0,0,0,0,0,0,1,0,Female,31 to 40,Widowed,Yes,Yes
+0,0,0,0,0,0,0,0,1,0,Female,31 to 40,Widowed,Yes,Yes
+0,1,0,0,0,1,0,0,1,1,Male,31 to 40,Divorced,Yes,Yes
+0,0,0,0,0,0,0,0,1,0,Male,31 to 40,Married,Yes,Yes
+0,0,0,0,0,1,0,0,0,0,Male,51 to 60,Widowed,Yes,Yes
+1,1,1,1,0,1,0,0,1,0,Female,Over 60,Married,Yes,Yes
+0,0,0,0,1,0,0,0,1,1,Male,41 to 50,Separated,Yes,Yes
+0,0,0,0,0,0,0,0,1,0,Female,31 to 40,Separated,Yes,Yes
+0,0,0,0,0,0,0,0,1,0,Female,31 to 40,Divorced,Yes,Yes
+0,0,0,0,0,0,0,0,1,0,Female,31 to 40,Separated,Yes,Yes
+1,1,1,0,1,1,0,1,0,1,Male,51 to 60,Divorced,Yes,Yes
+0,0,1,0,0,1,0,0,0,0,Male,18 to 30,Single,Yes,Yes
+1,0,0,0,0,1,0,1,1,0,Female,41 to 50,Married,Yes,Yes
+1,1,0,0,0,0,0,0,1,1,Male,31 to 40,Separated,Yes,Yes
+0,1,0,0,0,1,0,1,0,1,Male,31 to 40,Single,Yes,Yes
+1,0,0,0,0,1,0,0,0,0,Female,51 to 60,Married,Yes,Yes
+0,0,0,0,0,0,0,0,1,0,Male,Over 60,Separated,Yes,Yes
+0,0,0,0,0,0,0,0,1,0,Female,18 to 30,Divorced,Yes,Yes
+0,1,1,0,1,1,0,1,1,1,Female,51 to 60,Widowed,Yes,Yes
+0,0,0,0,1,1,0,0,0,0,Female,31 to 40,Widowed,Yes,Yes
+1,1,1,1,0,1,1,0,0,0,Female,41 to 50,Separated,Yes,Yes
+0,0,0,0,0,1,0,0,1,0,Male,41 to 50,Widowed,Yes,Yes
+0,0,0,0,0,1,0,0,1,1,Male,41 to 50,Divorced,Yes,Yes
+0,0,0,0,0,0,0,0,1,1,Female,18 to 30,Separated,Yes,Yes
+0,1,0,0,0,1,0,0,0,1,Male,31 to 40,Separated,Yes,Yes
+0,0,0,0,0,1,0,0,1,0,Female,51 to 60,Married,Yes,Yes
+0,0,0,0,0,0,0,0,1,0,Male,51 to 60,Widowed,Yes,Yes
+0,0,0,0,0,0,0,0,1,0,Male,41 to 50,Separated,Yes,Yes
+0,1,0,0,0,1,0,0,1,1,Female,51 to 60,Separated,Yes,No
+1,0,0,0,0,1,0,1,1,0,Female,31 to 40,Widowed,Yes,No
+0,1,0,0,0,1,0,0,0,0,Female,31 to 40,Single,Yes,No
+0,0,0,0,0,0,0,0,1,0,Male,18 to 30,Widowed,Yes,No
+1,0,0,0,0,1,0,1,1,0,Male,41 to 50,Married,Yes,Yes
+0,0,0,0,0,1,0,0,0,1,Female,31 to 40,Widowed,Yes,Yes
+1,0,1,0,0,1,0,0,1,0,Male,41 to 50,Widowed,Yes,Yes
+1,1,1,0,0,1,0,0,1,0,Male,31 to 40,Married,Yes,Yes
+0,1,1,1,1,1,0,0,0,1,Male,31 to 40,Separated,No,Yes
+1,1,1,0,1,1,0,1,1,1,Female,51 to 60,Widowed,No,Yes
+0,1,1,0,0,0,0,0,1,0,Male,31 to 40,Separated,No,Yes
+0,0,1,0,0,0,0,0,1,0,Female,41 to 50,Married,No,Yes
+0,1,1,0,1,1,0,0,1,0,Female,51 to 60,Widowed,No,Yes
+1,1,1,0,1,1,0,0,1,0,Female,31 to 40,Widowed,No,Yes
+1,1,0,0,1,0,0,0,0,0,Female,51 to 60,Married,No,Yes
+0,0,1,0,0,1,0,0,0,0,Male,18 to 30,Divorced,No,Yes
+1,0,1,0,1,1,0,0,1,1,Female,31 to 40,Married,No,Yes
+1,1,1,1,1,1,0,0,1,1,Female,18 to 30,Widowed,No,Yes
+0,1,0,0,0,0,0,0,1,0,Male,31 to 40,Separated,No,Yes
+0,1,1,0,1,1,0,1,1,0,Male,51 to 60,Separated,No,Yes
+1,1,1,0,0,1,0,0,1,0,Male,31 to 40,Widowed,No,Yes
+1,1,1,0,1,1,0,0,0,0,Female,Over 60,Single,No,Yes
+0,1,0,0,0,0,0,0,1,0,Male,18 to 30,Separated,No,Yes
+0,0,1,0,0,0,0,0,1,1,Female,Over 60,Divorced,No,Yes
+0,0,1,0,0,1,0,0,0,0,Male,41 to 50,Separated,No,Yes
+0,0,1,0,0,0,0,0,1,0,Male,41 to 50,Married,No,Yes
+0,1,0,0,0,0,0,0,1,0,Female,31 to 40,Separated,No,Yes
+0,0,1,0,0,1,0,0,1,0,Female,18 to 30,Married,No,Yes
+0,0,1,0,0,0,0,0,0,0,Male,31 to 40,Married,No,Yes
+0,1,0,1,0,1,0,0,0,1,Female,51 to 60,Widowed,No,Yes
+1,0,1,0,1,0,0,0,1,0,Female,31 to 40,Single,No,Yes
+1,0,1,0,0,1,0,0,0,0,Male,41 to 50,Married,No,Yes
+1,1,1,0,0,0,0,0,1,0,Male,31 to 40,Widowed,No,Yes
+0,1,0,0,0,0,0,0,0,0,Female,51 to 60,Single,No,Yes
+1,0,1,0,0,0,0,1,0,0,Female,51 to 60,Widowed,No,Yes
+1,1,0,0,0,0,0,0,0,1,Male,18 to 30,Divorced,No,Yes
+0,1,0,0,0,0,0,0,1,0,Female,41 to 50,Single,No,Yes
+0,1,1,0,0,1,0,0,0,0,Female,41 to 50,Widowed,No,Yes
+1,1,1,0,0,0,0,0,1,0,Female,Over 60,Single,No,Yes
+1,1,1,0,0,1,0,1,1,0,Male,31 to 40,Single,No,Yes
+1,1,1,0,0,1,0,0,0,0,Male,31 to 40,Married,No,Yes
+0,0,1,0,0,0,0,0,1,0,Female,31 to 40,Widowed,No,Yes
+0,1,1,0,0,0,0,0,0,1,Female,41 to 50,Married,No,Yes
+1,1,1,1,1,1,0,1,1,1,Female,41 to 50,Married,No,Yes
+0,1,1,0,0,0,0,0,0,0,Female,41 to 50,Widowed,No,Yes
+0,1,1,0,0,1,0,0,0,0,Male,41 to 50,Married,No,Yes
+0,1,0,0,0,0,0,0,1,0,Female,41 to 50,Separated,No,Yes
+0,1,1,0,0,1,0,0,0,0,Male,51 to 60,Married,No,Yes
+0,0,1,0,1,0,0,0,0,0,Female,31 to 40,Married,No,Yes
+1,0,1,0,0,1,0,0,0,0,Female,Over 60,Divorced,No,Yes
+0,1,0,0,0,0,0,0,1,0,Female,41 to 50,Widowed,No,Yes
+0,1,0,0,0,0,0,0,0,0,Female,Over 60,Single,No,Yes
+1,1,0,0,0,0,0,1,0,0,Female,31 to 40,Married,No,Yes
+1,1,1,0,0,0,0,0,0,0,Female,Over 60,Widowed,Yes,Yes
+1,1,1,1,0,1,0,1,1,1,Male,18 to 30,Divorced,No,Yes
+0,1,1,0,0,1,0,0,0,0,Female,31 to 40,Divorced,No,Yes
+0,1,1,0,0,0,0,0,1,1,Male,51 to 60,Divorced,No,Yes
+0,1,0,0,0,0,0,0,0,0,Female,Over 60,Divorced,No,Yes
+0,1,1,0,0,0,0,0,0,0,Male,Over 60,Divorced,No,No
+0,1,1,0,0,0,0,0,1,0,Male,Over 60,Divorced,Yes,No
+0,1,1,1,1,1,0,0,1,1,Male,Over 60,Divorced,No,No
+0,1,0,0,0,0,0,0,0,0,Male,Over 60,Divorced,No,Yes
+1,1,1,0,0,1,0,0,0,0,Male,Over 60,Divorced,No,Yes
+0,0,1,0,0,0,0,0,0,0,Male,Over 60,Divorced,No,Yes
+0,1,0,0,0,0,0,0,0,1,Male,Over 60,Divorced,No,Yes
+0,1,0,0,0,0,0,0,0,0,Male,Over 60,Divorced,No,Yes
+1,0,1,0,0,0,0,0,0,0,Male,Over 60,Divorced,No,Yes
+0,1,1,0,0,0,0,0,0,0,Male,Over 60,Divorced,No,Yes
+0,0,1,0,0,0,0,0,0,0,Male,Over 60,Divorced,No,Yes
+0,0,1,0,0,0,0,0,0,1,Male,Over 60,Divorced,No,Yes
+0,0,1,0,0,0,0,0,1,1,Male,Over 60,Divorced,No,Yes
+0,0,1,0,0,0,0,0,1,0,Male,Over 60,Divorced,Yes,Yes
+0,1,1,0,0,0,0,1,0,0,Male,Over 60,Divorced,No,Yes
+0,1,0,0,0,0,0,0,0,0,Male,Over 60,Divorced,No,Yes
+0,1,1,0,0,1,0,0,0,1,Male,Over 60,Divorced,No,Yes
+1,1,1,0,0,0,0,0,0,0,Male,Over 60,Divorced,No,Yes
+1,1,1,0,0,0,0,0,1,1,Male,Over 60,Divorced,No,Yes
+0,1,1,0,0,0,0,0,1,0,Male,Over 60,Divorced,No,Yes
+0,1,1,0,1,0,0,0,1,0,Male,Over 60,Divorced,No,Yes
+0,1,1,0,0,0,0,0,1,0,Female,31 to 40,Married,No,Yes
+0,0,1,0,0,0,0,0,0,0,Female,18 to 30,Widowed,No,Yes
+0,1,0,0,0,0,0,0,0,1,Male,31 to 40,Separated,No,Yes
+0,0,1,0,0,0,0,0,0,0,Female,Over 60,Divorced,No,Yes
+0,1,1,0,0,0,0,0,0,1,Male,51 to 60,Separated,No,Yes
+1,1,0,0,0,0,0,0,0,0,Female,51 to 60,Widowed,Yes,Yes
+0,0,1,0,0,0,0,0,0,0,Male,18 to 30,Separated,No,Yes
+0,1,1,0,0,0,0,0,0,1,Female,41 to 50,Widowed,No,Yes
+0,0,1,0,0,1,0,0,0,0,Male,41 to 50,Separated,No,Yes
+0,1,1,0,0,1,1,1,1,0,Female,51 to 60,Divorced,No,Yes
+1,1,1,0,0,0,0,0,0,0,Male,41 to 50,Separated,No,Yes
+1,0,1,0,0,1,0,0,1,0,Female,31 to 40,Married,No,No
+0,0,1,0,0,1,0,1,1,0,Female,41 to 50,Widowed,No,No
+0,0,1,0,0,0,0,0,0,0,Female,18 to 30,Separated,No,No
+0,1,1,0,0,1,0,1,1,0,Female,31 to 40,Divorced,No,Yes
+0,0,1,0,0,0,0,0,0,0,Male,31 to 40,Divorced,No,Yes
+0,0,1,0,0,1,0,0,1,0,Female,51 to 60,Separated,No,Yes
+1,1,1,0,0,1,0,0,0,1,Female,18 to 30,Widowed,No,Yes
+0,0,1,0,0,0,0,0,0,0,Female,Over 60,Married,No,Yes
+0,1,1,0,1,0,0,0,0,0,Male,31 to 40,Separated,Yes,Yes
+0,0,1,0,0,0,0,0,0,0,Male,31 to 40,Separated,No,Yes
+0,1,1,0,0,1,0,0,1,0,Male,18 to 30,Widowed,No,No
+0,1,1,0,0,0,0,0,0,0,Male,31 to 40,Widowed,No,Yes
+0,1,0,0,0,0,0,0,0,0,Male,41 to 50,Married,No,Yes
+0,1,1,0,0,0,0,0,0,1,Female,41 to 50,Widowed,No,Yes
+0,1,0,0,0,0,0,0,0,0,Male,18 to 30,Separated,No,Yes
+1,1,1,0,0,0,0,0,0,0,Female,Over 60,Single,No,Yes
+0,0,1,0,0,0,0,0,0,0,Female,Over 60,Separated,No,Yes
+0,0,1,0,0,0,0,0,0,0,Female,Over 60,Married,No,Yes
+0,1,0,0,0,0,0,0,0,0,Female,31 to 40,Widowed,No,Yes
+0,1,0,0,0,0,0,0,0,0,Male,31 to 40,Single,No,Yes
+0,1,1,0,0,0,0,0,0,0,Female,51 to 60,Divorced,No,Yes
+1,1,1,0,0,1,0,0,0,1,Male,51 to 60,Separated,No,Yes
+0,0,1,0,0,1,0,1,1,0,Male,51 to 60,Widowed,No,Yes
+0,0,1,0,0,0,0,0,0,0,Male,31 to 40,Separated,No,Yes
+0,1,0,0,0,0,0,0,0,0,Male,51 to 60,Separated,Yes,Yes
+0,1,1,0,0,0,0,0,1,0,Female,31 to 40,Single,No,Yes
+1,1,1,0,0,1,0,0,0,1,Male,41 to 50,Married,No,Yes
+1,1,1,0,0,1,0,0,1,1,Male,51 to 60,Single,No,Yes
+0,1,0,0,0,0,0,0,1,0,Female,41 to 50,Separated,No,Yes
+0,0,1,0,0,1,0,0,0,0,Female,51 to 60,Single,No,Yes
+0,0,1,0,0,1,0,0,0,0,Male,31 to 40,Separated,No,Yes
+0,1,0,0,0,0,0,0,1,0,Female,31 to 40,Single,No,Yes
+0,1,0,0,0,0,0,0,0,0,Male,31 to 40,Separated,No,Yes
+0,1,1,0,0,0,0,1,1,0,Male,41 to 50,Divorced,No,Yes
+1,1,1,1,0,1,0,0,0,0,Male,31 to 40,Divorced,No,Yes
+1,1,0,0,0,1,0,0,0,0,Male,51 to 60,Widowed,No,Yes
+1,0,1,0,0,0,0,0,0,0,Female,41 to 50,Married,No,Yes
+0,0,1,0,0,0,0,0,0,0,Female,18 to 30,Widowed,No,Yes
+0,1,1,0,0,0,0,0,0,0,Female,31 to 40,Widowed,No,Yes
+0,1,1,0,0,0,0,1,1,0,Male,Over 60,Married,No,Yes
+0,1,0,0,1,1,0,0,1,1,Female,18 to 30,Married,No,Yes
+0,0,1,0,0,1,0,0,1,0,Female,31 to 40,Married,No,Yes
+1,0,1,0,0,0,0,0,0,0,Female,18 to 30,Divorced,No,Yes
+1,1,0,0,0,1,0,1,1,1,Female,18 to 30,Widowed,Yes,Yes
+0,0,1,0,0,0,0,0,1,0,Female,18 to 30,Single,No,Yes
+0,1,0,0,0,1,0,0,0,1,Female,18 to 30,Single,No,Yes
+0,0,1,0,0,0,0,0,0,0,Female,18 to 30,Single,No,Yes
+0,0,1,0,0,0,0,0,0,0,Male,18 to 30,Single,No,Yes
+0,1,1,0,0,0,0,0,0,0,Female,18 to 30,Single,No,Yes
+0,0,1,0,1,0,0,0,1,0,Female,18 to 30,Single,No,Yes
+0,0,1,0,0,1,0,0,1,0,Female,18 to 30,Single,No,Yes
+0,0,1,0,0,0,0,0,1,0,Male,18 to 30,Single,No,Yes
+0,1,0,0,1,1,0,0,1,0,Male,18 to 30,Single,No,Yes
+0,1,1,1,0,0,0,0,0,1,Male,18 to 30,Single,No,Yes
+1,1,1,0,0,0,0,0,0,0,Male,18 to 30,Single,No,Yes
+1,1,1,0,0,0,0,0,1,0,Male,18 to 30,Single,No,Yes
+1,1,0,0,0,0,0,0,1,0,Male,18 to 30,Single,No,Yes
+0,1,0,0,0,0,0,0,0,0,Male,18 to 30,Single,No,Yes
+0,0,1,0,0,0,0,0,0,0,Male,18 to 30,Single,Yes,No
+0,0,1,0,0,0,0,0,0,0,Male,18 to 30,Single,No,Yes
+0,1,0,0,0,1,0,0,1,0,Male,18 to 30,Single,No,Yes
+1,1,0,0,0,0,0,0,0,0,Male,18 to 30,Single,No,Yes
+1,1,1,0,0,0,0,0,0,0,Male,18 to 30,Single,No,Yes
+0,1,1,0,0,1,0,0,0,0,Male,18 to 30,Single,No,Yes
+1,1,1,0,1,1,0,0,1,0,Male,18 to 30,Single,No,Yes
+0,1,0,0,0,1,0,0,0,0,Male,18 to 30,Single,No,Yes
+1,0,1,0,1,0,0,0,0,0,Male,18 to 30,Single,No,Yes
+0,1,0,0,0,0,0,0,0,0,Male,18 to 30,Single,No,Yes
+1,1,0,0,0,0,0,0,1,0,Male,18 to 30,Single,No,Yes
+0,0,1,0,0,0,0,0,0,0,Male,18 to 30,Single,No,Yes
+0,1,1,0,0,0,0,0,1,0,Male,18 to 30,Single,No,Yes
+1,0,1,0,0,0,0,0,0,0,Male,18 to 30,Single,No,Yes
+0,1,0,0,0,0,0,0,0,0,Male,18 to 30,Single,No,Yes
+0,1,0,0,0,1,0,0,0,1,Male,18 to 30,Single,No,Yes
+0,1,1,0,0,0,0,0,1,0,Male,18 to 30,Single,No,Yes
+0,1,1,0,0,0,0,0,1,0,Male,18 to 30,Single,No,Yes
+0,1,1,0,0,0,0,0,1,0,Male,18 to 30,Single,No,Yes
+1,0,1,0,0,0,0,0,0,0,Male,18 to 30,Single,No,Yes
+1,0,1,0,0,1,0,0,1,0,Male,18 to 30,Single,Yes,Yes
+0,1,0,0,0,0,0,0,1,0,Male,18 to 30,Single,No,Yes
+0,1,1,0,0,0,0,0,0,0,Male,18 to 30,Single,No,Yes
+1,1,0,0,1,1,0,0,1,0,Male,18 to 30,Single,No,Yes
+1,1,1,0,0,0,0,0,0,0,Male,18 to 30,Single,No,Yes
+0,0,1,0,0,0,0,0,1,0,Male,18 to 30,Single,No,Yes
+0,0,1,0,0,0,0,0,0,0,Male,18 to 30,Single,No,No
+0,0,1,0,0,0,0,0,0,0,Male,18 to 30,Single,No,No
+0,0,1,0,0,0,0,0,0,0,Male,18 to 30,Single,No,No
+0,1,0,0,0,0,0,1,0,0,Male,18 to 30,Single,No,No
+0,0,1,0,0,0,0,0,1,0,Male,18 to 30,Single,No,No
+1,1,0,0,1,0,0,0,0,1,Male,18 to 30,Single,No,No
+0,1,0,0,0,0,0,0,0,0,Male,18 to 30,Single,No,No
+0,1,0,0,0,0,0,0,1,0,Male,18 to 30,Single,No,No
+0,1,0,0,0,0,0,0,0,0,Male,18 to 30,Single,No,No
+1,1,1,1,0,1,0,0,1,1,Male,18 to 30,Single,No,No
+1,1,1,0,0,0,0,0,1,0,Male,18 to 30,Single,No,No
+1,1,1,0,0,1,0,0,0,0,Male,18 to 30,Single,No,No
+1,1,1,0,0,1,0,0,0,0,Male,18 to 30,Single,No,No
+1,1,0,0,0,1,0,0,0,0,Male,18 to 30,Single,No,No
+0,1,1,0,0,0,0,0,1,0,Male,18 to 30,Single,No,No
+0,1,0,1,0,0,0,0,0,0,Male,18 to 30,Single,No,No
+0,1,1,0,0,0,0,0,0,0,Male,18 to 30,Single,No,No
+1,1,0,0,0,1,0,0,1,0,Male,18 to 30,Single,No,No
+1,1,0,0,0,1,0,0,0,1,Male,18 to 30,Single,No,No
+0,0,1,0,0,0,0,0,1,0,Male,18 to 30,Single,No,No
+1,1,1,0,0,1,0,0,1,1,Male,18 to 30,Single,No,No
+0,0,1,0,0,0,0,0,0,0,Male,18 to 30,Single,No,No
+0,0,1,0,0,0,0,0,0,0,Male,18 to 30,Single,No,No
+0,1,0,0,0,1,0,0,1,0,Male,18 to 30,Single,No,No
+1,1,1,0,1,1,0,0,1,0,Male,18 to 30,Single,No,No
+0,0,1,0,0,0,0,0,1,0,Male,18 to 30,Single,No,Yes
+0,0,1,0,0,1,0,0,0,0,Male,18 to 30,Single,No,Yes
+0,1,0,0,0,0,0,0,0,0,Male,18 to 30,Single,No,Yes
+0,1,1,0,0,0,0,0,0,0,Male,18 to 30,Single,No,Yes
+0,1,1,0,0,0,0,1,0,1,Male,18 to 30,Single,No,Yes
+0,0,1,0,0,0,0,0,0,0,Male,18 to 30,Single,No,Yes
+1,1,0,0,0,1,0,0,1,0,Male,18 to 30,Single,No,Yes
+0,0,1,0,0,0,0,0,0,0,Male,18 to 30,Single,No,Yes
+0,1,1,0,0,0,0,0,1,0,Male,18 to 30,Single,No,Yes
+0,1,0,0,0,0,0,0,0,0,Male,18 to 30,Single,No,Yes
